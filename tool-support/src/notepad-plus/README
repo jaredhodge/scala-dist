@@ -23,3 +23,6 @@ turns Scala mode on.
 userDefineLang.xml was contributed by Stephane Micheloud (stephane.micheloud@epfl.ch)
 
 
+* Alternate install method
+Open Notepad++, select "View", then "User-Defined Dialog...", then click "Import..."
+and select the userDefineLang.xml.  Then restart notepad++
